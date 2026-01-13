@@ -5,9 +5,9 @@
 <!-- ### Upcoming Data Scientist -->
 ![](https://komarev.com/ghpvc/?username=Pushpendra9350&color=blue)
 - 👀 Visit to know more: **Personal Website:** https://pushpendra.co.in/
+- 📫 How to reach me: **E-mail:** contact@pushpendra.co.in
 - 👀 I’m interested and also learning **Programming and Software Engineering/Development** 
-- 🕸 Website For Data Science community created by me go and check this out: https://stackview.dev 
-- 📫 How to reach me: **E-mail:** pushpendra.me.dev@gmail.com
+- 🕸 Blogs For Software/Backend Engineering, System Design : https://stackview.dev 
 - For Graphics Designing services visit https://www.dezignplex.com/
 
 ### Connect with me on LinkedIn
