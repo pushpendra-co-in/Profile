@@ -4,7 +4,7 @@
 # Hi 👋, I’m Pushpendra Kumar
 <!-- ### Upcoming Data Scientist -->
 ![](https://komarev.com/ghpvc/?username=Pushpendra9350&color=blue)
-- 👀 Visit to know more: **Personal Website:** https://pushpendrakumar.in/
+- 👀 Visit to know more: **Personal Website:** https://pushpendra.co.in/
 - 👀 I’m interested and also learning **Programming and Software Engineering/Development** 
 - 🕸 Website For Data Science community created by me go and check this out: https://stackview.dev 
 - 📫 How to reach me: **E-mail:** pushpendra.me.dev@gmail.com
