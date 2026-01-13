@@ -6,9 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=Pushpendra9350&color=blue)
 - 👀 Visit to know more: **Personal Website:** https://pushpendrakumar.in/
 - 👀 I’m interested and also learning **Programming and Software Engineering/Development** 
-- 🕸 Website For Data Science community created by me go and check this out: https://indeepdata.com 
+- 🕸 Website For Data Science community created by me go and check this out: https://stackview.dev 
 - 📫 How to reach me: **E-mail:** pushpendra.me.dev@gmail.com
-- For Graphics Designing services visit https://localgraphix.com
+- For Graphics Designing services visit https://www.dezignplex.com/
 
 ### Connect with me on LinkedIn
 <!-- **LinkedIn:** https://www.linkedin.com/in/pushpendra9350/ -->
