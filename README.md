@@ -11,7 +11,7 @@
 - For Graphics Designing services visit https://www.dezignplex.com/
 
 ### Connect with me on LinkedIn
-<!-- **LinkedIn:** https://www.linkedin.com/in/pushpendra9350/ -->
+<!-- **LinkedIn:** https://www.linkedin.com/in/pushpendra-co-in/ -->
 <img align="left" alt = "pushpendra9350 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />https://www.linkedin.com/in/pushpendra9350/
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra9350&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
